@@ -8,6 +8,4 @@ We're going to take the following approach:
 4. Features
 5. Modelling
 6. Experimentation
-
-
-[![HitCount](http://hits.dwyl.com/Vivek2509/ Heart_Disease_Classification.svg)](http://hits.dwyl.com/Vivek2509/ Heart_Disease_Classification)
+[![HitCount](http://hits.dwyl.com/Vivek2509/Heart_Disease_Classification.svg)](http://hits.dwyl.com/Vivek2509/Heart_Disease_Classification)
